@@ -204,7 +204,7 @@ ISC
 
 ## Author
 
-IT23668904 Project
+M.A.Y.W.Kumarasiri (IT23668904)
 
 ## Additional Resources
 
